@@ -1,0 +1,52 @@
+{
+  "lang": {
+    "en": "Bahasa Inggeris",
+    "zh_CN": "Bahasa Cina",
+    "ms": "Bahasa Melayu"
+  },
+  "common": {
+    "loading": "Memuat turun...",
+    "submit": "Hantar",
+    "termCondition": "Terma & Syarat",
+    "privacyPolicy": "Dasar Privasi",
+    "allRightReserved": "Semua hak terpelihara",
+    "error": {
+      "invalidEmail": "Format emel tidak betul"
+    }
+  },
+  "404": {
+    "title": "404 Halaman yang anda cari tidak ditemukan",
+    "message": "URL %{url} yang diminta tidak ditemui pada pelayan ini. Itu sahaja yang kita tahu"
+  },
+  "label": {
+    "email": "Emel",
+    "emailDescription": "Sila berikan kami alamat e-mel anda supaya kami boleh menghubungi dan membantu anda.",
+    "name": "Nama",
+    "antiCounterfeitTag": "Kod Pengesahan",
+    "storeName": "Nama stor",
+    "storeNameDescription": "Nama kedai tempat anda membeli produk",
+    "reason": "Alasan",
+    "reasonDescription": "Bolehkah anda huraikan lebih lanjut mengenai produk tiruan ini?"
+  },
+  "textFieldEmptyError": {
+    "email": "Email diperlukan",
+    "name": "Name diperlukan",
+    "antiCounterfeitTag": "Kod Pengesahan diperlukan",
+    "storeName": "Nama stor diperlukan",
+    "reason": "Reason diperlukan"
+  },
+  "scanTagResultScreen": {
+    "certifiedTitle": "Sijil Pengesahan",
+    "certifiedNo": "Cert Nombor",
+    "productName": "Nama",
+    "produceBatchTitle": "Kumpulan Dihasilkan",
+    "productBatchYear": "Tahun",
+    "nonCertifiedStatement": "Produk ini bukan produk Moduspace yang tulen. Jika anda membeli produk ini daripada salah satu penjual semula kami yang sah, sila pertimbangkan untuk melaporkan produk tiruan ini kepada kami.",
+    "certifiedStatement": "Sijil ini mengesahkan bahawa produk di atas adalah sahih dan berasal dari Moduspace.",
+    "reportButtonText": "Lapor"
+  },
+  "reportCounterfeitScreen": {
+    "title": "Lapor Pemalsuan",
+    "receivedSubmission": "Laporan anda telah diterima."
+  }
+}

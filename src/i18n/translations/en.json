@@ -1,0 +1,54 @@
+{
+  "lang": {
+    "en": "English",
+    "zh_CN": "Chinese",
+    "ms": "Malay"
+  },
+  "common": {
+    "loading": "Loading...",
+    "submit": "Submit",
+    "termCondition": "Terms & Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "allRightReserved": "All rights reserved",
+    "error": {
+      "invalidEmail": "Email format is not correct"
+    }
+  },
+  "404": {
+    "title": "404 Not Found",
+    "message": ""
+  },
+  "label": {
+    "name": "Name",
+    "nameDescription": "Please let us know how to address you.",
+    "email": "Your Email Address",
+    "emailDescription": "Share your email for us to reach out and assist you",
+    "antiCounterfeitTag": "AntiCounterfeitTag",
+    "storeName": "Purchase From",
+    "storeNameDescription": "Name of the store where you purchased the product",
+    "reason": "Description",
+    "reasonDescription": "Could you please elaborate more on this counterfeit product?"
+  },
+  "textFieldEmptyError": {
+    "email": "Email is required",
+    "name": "Name is required",
+    "antiCounterfeitTag": "AntiCounterfeitTag is required",
+    "storeName": "Store Name is required",
+    "reason": "Description is required"
+  },
+  "scanTagResultScreen": {
+    "certifiedTitle": "Certificate Of Authenticity",
+    "certifiedNo": "Cert No.",    
+    "productName": "Name",
+    "produceBatchTitle": "Produce Batch",
+    "productBatchYear": "Year",
+    "sku": "SKU",
+    "nonCertifiedStatement": "This product is not an authentic Moduspace product. If you purchased this product from one of our authorized resellers, please consider reporting this counterfeit product to us.",
+    "certifiedStatement": "This certificate confirms that the product above is authentic and comes from Moduspace.",
+    "reportButtonText": "Report"
+  },
+  "reportCounterfeitScreen": {
+    "title": "Report Counterfeit",
+    "receivedSubmission": "We have received your report."
+  }
+}

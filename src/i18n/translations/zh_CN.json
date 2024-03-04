@@ -1,0 +1,52 @@
+{
+  "lang": {
+    "en": "英文",
+    "zh_CN": "中文",
+    "ms": "马来文"
+  },
+  "common": {
+    "loading": "加载中。。。",
+    "submit": "提交",
+    "termCondition": "条款和条件",
+    "privacyPolicy": "隐私权政策",
+    "allRightReserved": "版权所有",
+    "error": {
+      "invalidEmail": "电子邮件格式不正确"
+    }
+  },
+  "404": {
+    "title": "404 页面不存在",
+    "message": "您所访问的网址 %{url} 不存在这个服务器. 据我所知"
+  },
+  "label": {
+    "email": "电子邮件",
+    "emailDescription": "请向我们提供您的电子邮件地址，以便我们与您联系并为您提供帮助。",
+    "name": "名字",
+    "antiCounterfeitTag": "验证码",
+    "storeName": "店名",
+    "storeNameDescription": "您购买产品的商店名称",
+    "reason": "理由",
+    "reasonDescription": "您能详细说明一下这个假冒产品吗？"
+  },
+  "textFieldEmptyError": {
+    "email": "电子邮件不能放空",
+    "name": "名字不能放空",
+    "antiCounterfeitTag": "验证码不能放空",
+    "storeName": "店名不能放空",
+    "reason": "理由不能放空"
+  },
+  "scanTagResultScreen": {
+    "certifiedTitle": "真品证书",
+    "certifiedNo": "证书号码",
+    "productName": "名字",
+    "produceBatchTitle": "生产批次",
+    "productBatchYear": "年份",
+    "nonCertifiedStatement": "该产品不是正品 Moduspace 产品。如果您从我们的授权经销商之一购买了该产品，请考虑向我们举报该假冒产品。",
+    "certifiedStatement": "该证书确认上述产品为正品且来自 Moduspace。",
+    "reportButtonText": "举报"
+  },
+  "reportCounterfeitScreen": {
+    "title": "举报仿品",
+    "receivedSubmission": "我们已收到您的举报。"
+  }
+}

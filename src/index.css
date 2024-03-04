@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3&display=swap");
+
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 16px;
+  font-family: "Source Sans 3", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.non-deco-url {
+  color: #aaaaaa;
+  text-decoration: none;
+}
+
+.main-container {
+  background: #fff;
+  width: 400;
+  padding: 3;
+}
+
+@media only screen and (max-width: 400px) {
+  body {
+    font-size: 8px;
+  }
+
+  .main-container {
+    background: #fff;
+    width: "100%";
+    padding: 1;
+  }
+}
+
+.border-background {
+  background: linear-gradient(
+    90deg,
+    rgb(245, 190, 79) 0%,
+    rgb(244, 164, 75) 10.05%,
+    rgb(243, 115, 67) 18.09%,
+    rgb(241, 96, 64) 28.14%,
+    rgb(204, 87, 131) 37.19%,
+    rgb(139, 84, 162) 46.23%,
+    rgb(93, 78, 159) 56.28%,
+    rgb(95, 109, 179) 65.33%,
+    rgb(83, 157, 183) 73.37%,
+    rgb(129, 180, 98) 81.41%,
+    rgb(208, 223, 91) 91.46%,
+    rgb(240, 235, 86) 100.5%
+  );
+}
